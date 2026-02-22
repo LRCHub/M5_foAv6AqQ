@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰そ彼",
+  "base_artist": "ナツノセ",
+  "createdAt": "2026-02-22T14:24:07.700764Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰そ彼",
+      "artist": "ナツノセ",
+      "has_synced": false,
+      "path": "select/pl_01_誰そ彼_ナツノセ.txt"
+    }
+  ]
+}
